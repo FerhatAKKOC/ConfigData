@@ -11,6 +11,8 @@ management:
 spring:
   profiles: subject
 words: I,You,He,She,It
+server:
+  port: 0
 
 ---
 spring:
