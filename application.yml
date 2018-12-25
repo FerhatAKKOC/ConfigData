@@ -41,3 +41,10 @@ spring:
 words: boat,book,vote,seat,backpack,partition,groundhog
 server:
   port: 0
+  
+---
+spring:
+  profiles: cold-noun
+words: icicle,refrigerator,blizzard,snowball
+server:
+  port: 0
