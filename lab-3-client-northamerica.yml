@@ -1,3 +1,4 @@
-word-config.lucky-word: Profil bilgisi basilacaktir.
-word-config.secondWord:araba
-word-config.thirdWord: iyi
+word-config:
+  lucky-word: Profil bilgisi basilacaktir.
+  secondWord:araba
+  thirdWord: iyi
