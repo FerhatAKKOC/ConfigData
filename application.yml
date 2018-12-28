@@ -31,7 +31,7 @@ server:
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: reasonable1,leaky1,suspicious1,ordinary1,unlikely1
 server:
   port: 0
   
