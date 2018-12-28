@@ -1,3 +1,4 @@
-lucky-word: Profil bilgisi basilacaktir.
-second-word: Hello World
-third-word: merhabalar
+starting-word:
+  lucky-word: Profil bilgisi basilacaktir.
+  second-word: Hello World
+  third-word: merhabalar
