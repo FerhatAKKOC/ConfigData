@@ -10,41 +10,41 @@ management:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: I,You,He,She,It3
 server:
   port: 0
 
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: ran,knew,had,saw,bought3
 server:
   port: 0
 
 ---
 spring:
   profiles: article
-words: a,the
+words: a,the3
 server:
   port: 0
   
 ---
 spring:
   profiles: adjective
-words: reasonable1,leaky1,suspicious1,ordinary1,unlikely1
+words: reasonable3,leaky3,suspicious3,ordinary3,unlikely3
 server:
   port: 0
   
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: boat3,book3,vote3,seat3,backpack3,partition3,groundhog3
 server:
   port: 0
   
 ---
 spring:
   profiles: cold-noun
-words: icicle,refrigerator,blizzard,snowball
+words: icicle3,refrigerator3,blizzard3,snowball3
 server:
   port: 0
